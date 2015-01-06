@@ -8,4 +8,6 @@ test22-added
 * beer
 * sausage
 * peanuts
-* 
+
+**hi hi italic **
+~~not in use~~
